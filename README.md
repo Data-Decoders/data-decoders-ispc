@@ -13,3 +13,7 @@
 
 - Debora Abigail Zurita Rojo
 - Usuario de Github: AbiZur
+
+<br>
+
+Para la segunda entrega se debe trabajar con la notebook "proyecto_final_analista_de_datos_02.ipynb" asociada al dataset "autos_argentina_02.csv".
